@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -O0 -shared-libgcc -Wfatal-errors  -shared -Wl,-soname,libMyIrrlicht.so -o lib/libMyIrrlicht.so CMakeFiles/MyIrrlicht.dir/sources/Graph/Graph.cpp.o  /usr/lib64/libOpenGL.so /usr/lib64/libGLX.so -lGLU -lglut -lXxf86vm -lX11 -lXcursor -lsfml-audio -lIrrlicht -Wl,-rpath=./../irrlicht-1.8.4/lib/Linux/ 

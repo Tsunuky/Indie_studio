@@ -1,0 +1,6 @@
+/home/wolfyre/OOP_indie_studio_2018/CMakeFiles/rebuild_cache.dir
+/home/wolfyre/OOP_indie_studio_2018/CMakeFiles/edit_cache.dir
+/home/wolfyre/OOP_indie_studio_2018/CMakeFiles/Bomberman.dir
+/home/wolfyre/OOP_indie_studio_2018/CMakeFiles/MyIrrlicht.dir
+/home/wolfyre/OOP_indie_studio_2018/CMakeFiles/studio.dir
+/home/wolfyre/OOP_indie_studio_2018/CMakeFiles/Irrlicht.dir
